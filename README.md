@@ -51,7 +51,8 @@ a.   KVL:
 
 
 b.  KCL:
- ![Uploading WhatsApp Image 2026-10-06 at 11.08.14 PM.jpeg…]()
+<img width="1600" height="864" alt="WhatsApp Image 2026-10-06 at 11 08 14 PM" src="https://github.com/user-attachments/assets/b41b7c03-da98-45ef-bf10-534593415410" />
+
 
 
 Calculation:
