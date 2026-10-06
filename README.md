@@ -44,11 +44,13 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
+ ![Uploading WhatsApp Image 2026-10-06 at 11.07.51 PM.jpeg…]()
+
 
 
 b.  KCL:
- 
+ ![Uploading WhatsApp Image 2026-10-06 at 11.08.14 PM.jpeg…]()
+
 
 Calculation:
 
