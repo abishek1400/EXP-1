@@ -44,7 +44,9 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- ![Uploading WhatsApp Image 2026-10-06 at 11.07.51 PM.jpeg…]()
+ <img width="1600" height="834" alt="WhatsApp Image 2026-10-06 at 11 07 51 PM" src="https://github.com/user-attachments/assets/c4c0a248-65d0-43c6-8fb2-ed3196b489b0" />
+
+
 
 
 
