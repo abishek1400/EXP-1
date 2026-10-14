@@ -57,22 +57,26 @@ b.  KCL:
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="974" height="1280" alt="kvl calculation" src="https://github.com/user-attachments/assets/c937ffb8-091f-40b1-869d-3e2a8d0649e9" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="853" height="1280" alt="kcl calculation" src="https://github.com/user-attachments/assets/eeefe259-06b7-4282-8e6e-1e4b86aaf9e6" />
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:<img width="243" height="1280" alt="kvl table" src="https://github.com/user-attachments/assets/40b1c7f6-9f3d-42ba-8126-e18f0b6f3561" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="237" height="1280" alt="kcl table" src="https://github.com/user-attachments/assets/6b1c8d19-03c1-42d2-8e96-e9079e4dd8db" />
+
 
 
 
